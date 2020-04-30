@@ -1,0 +1,22 @@
+.bg-color {
+    background-color: orange !important;
+}
+
+.input-search-form {
+    width: 50%;
+}
+
+.ant-input-group-addon {
+    height: 48px;
+    background-color: #ffffff;
+}
+
+.ant-input-group-addon+input {
+    height: 48px;
+    border-left: none;
+}
+
+.anticon-search {
+    font-size: 20px;
+    color: orange;
+}

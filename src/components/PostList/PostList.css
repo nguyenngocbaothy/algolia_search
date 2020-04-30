@@ -1,0 +1,29 @@
+.sort {
+    padding: 15px;
+}
+
+.post-item {
+    background-color: #f6f6ef;
+    height: auto;
+    padding: 15px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #444444;
+    cursor: pointer;
+}
+
+.post-body {
+    font-size: 13px;
+    color: #828282;
+}
+
+.link {
+    color: #828282;
+}
+
+.link:hover {
+    color: #828282;
+}

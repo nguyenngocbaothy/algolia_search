@@ -1,0 +1,23 @@
+.card-detail {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.detail-link {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.icon {
+    margin-right: 10px;
+}
+
+.comment {
+    cursor: pointer;
+}
